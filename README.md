@@ -23,7 +23,7 @@ Right click any of the skins other than weather to center them or to open the se
 
 # The "MeasureNetworkInDelay" incident.
 
-Found in the original code. If anyone can tell me what the fuck ApexXx was smoking that'd be appreaciated.
+Found in the original code. If anyone can tell me why this exists in the original skin it would be much appreaciated.
 
 ```ini
 ; Download.ini
