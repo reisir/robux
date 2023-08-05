@@ -17,7 +17,7 @@ Y=R
 [MeterDownload]
 Meter=String
 MeterStyle=SS
-Text=download:
+Text=Download:
 Y=R
 
 [MeterDownloadSpeed]

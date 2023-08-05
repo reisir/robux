@@ -7,6 +7,8 @@ H=(3 * #Scale#)
 BarColor=#FontColor2#
 SolidColor=#FontColor#,55
 DynamicVariables=1
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 ; StringStyle
 [SS]
@@ -31,4 +33,3 @@ X=[MeterBarRAM:W]
 Text=%1%
 AntiAlias=1
 Percentual=1
-AutoScale=1

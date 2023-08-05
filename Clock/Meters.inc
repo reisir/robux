@@ -27,12 +27,13 @@ Shape=Rectangle (-55 * #Scale#),0,(110 * #Scale#),(4 * #Scale#),(2.5 * #Scale#) 
 [MeterDate]
 Meter=String
 MeasureName=MeasureDate
-StringCase=Upper
 FontColor=#FontColor#
 FontFace=#Font1#
 FontSize=(20 * #Scale#)
 Y=(25 * #Scale#)R
 MeterStyle=SS
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 [MeterDay]
 Meter=String

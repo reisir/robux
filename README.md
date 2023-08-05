@@ -7,9 +7,9 @@ Robik but it work
 # Features
 
 - Uses AudioAnalyzer instead of AudioLevel for a smoother visualizer
-- Uses WebNowPlaying for browser and Spotify sonf info
-  - Can be reverted to NowPlaying for local music players
+- Uses WebNowPlaying for browser and Spotify song info
 - The weather works
+- Right click to center any skin
 
 You might also want to check out [Mondtholomew](https://github.com/reisir/mondtholomew), it's "Mond but it work"!
 
@@ -17,9 +17,15 @@ You might also want to check out [Mondtholomew](https://github.com/reisir/mondth
 
 Download and install the newest .rmskin package from [releases](https://github.com/reisir/robux/robux/releases)
 
-Robux uses [WebNowPlaying](https://github.com/tjhrulz/WebNowPlaying) by default. This lets the player skin read information from your browser with a [browser extension](https://github.com/tjhrulz/WebNowPlaying#extension-links). You can also use the Spotify app but you need to install [Spicetify](https://spicetify.app/docs/getting-started) to use it with any Rainmeter skin.
+Can also be installed using [Meters on Demand](https://github.com/meters-on-demand/cli)
 
-Right click any of the skins other than weather to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh` the skin to see changes.
+```sh
+mond install reisir/robux
+```
+
+Robux uses [WebNowPlaying](https://wnp.keifufu.dev/) by default. This lets the player skin read information from your browser with a [browser extension](https://wnp.keifufu.dev/extension/getting-started).
+
+Right click any of the skins to center them or to open the settings file. When you edit the settings remember to save the file and then `right click > refresh robux` to see changes.
 
 # The "MeasureNetworkInDelay" incident.
 

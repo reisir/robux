@@ -14,13 +14,16 @@ AntiAlias=1
 FontFace=#Font1#
 FontColor=#FontColor#
 FontSize=(13 * #Scale#)
-StringCase=Upper
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 ; SpeedStringStyle
 [SSS]
 NumOfDecimals=1
-AutoScale=1
+AutoScale=#AutoScaleString#
 Text=%1bps
 StringAlign=Right
 DynamicVariables=1
 Y=r
+FontWeight=#FontWeight#
+StringCase=#StringCase#

@@ -5,7 +5,7 @@ MeasureName=MeasureCPU
 W=(#MaxWidth# * #Scale#)
 H=(30 * #Scale#)
 DynamicVariables=1
-AutoScale=1
+AutoScale=#AutoScale#
 AntiAlias=1
 
 [MeterLine]
@@ -44,5 +44,4 @@ X=[MeterLine:W]
 DynamicVariables=1
 AntiAlias=1
 Percentual=1
-AutoScale=1
 Y=r

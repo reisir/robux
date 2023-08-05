@@ -1,15 +1,18 @@
 [MeasureTime]
 Measure=Time
-Format=%#Format#.%M
+Format=#MeasureTimeFormat#
+FormatLocale=#LanguageCode#
 UpdateDivider=1
 OnChangeAction=[!UpdateMeter MeterTime][!Redraw]
 
 [MeasureDay]
 Measure=Time
-Format=%A
 UpdateDivider=1
+Format=#MeasureDayFormat#
+FormatLocale=#LanguageCode#
 OnChangeAction=[!UpdateMeasure MeasureDate][!UpdateMeter MeterDate][!UpdateMeter MeterDay][!Redraw]
 
 [MeasureDate]
 Measure=Time
-Format=%d %B %Y
+Format=#MeasureDateFormat#
+FormatLocale=#LanguageCode#

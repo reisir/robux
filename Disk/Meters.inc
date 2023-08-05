@@ -15,6 +15,8 @@ FontColor=#FontColor#
 AntiAlias=1
 Y=(15 * #Scale#)
 DynamicVariables=1
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 [MeterValue]
 Meter=String
@@ -23,7 +25,7 @@ MeasureName2=MeasureTotalDisk
 MeterStyle=SS
 Text="%1B / %2B"
 NumOfDecimals=1
-AutoScale=1
+AutoScale=#AutoScaleString#
 StringAlign=Right
 X=R
 

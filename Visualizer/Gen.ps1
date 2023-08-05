@@ -16,8 +16,6 @@ function New-Visualizer {
     
     $ini | Set-Content -Path $file
 
-    $RmApi.Bang("[!Refresh]")
-
 }
 
 function New-Band {
@@ -62,6 +60,7 @@ MeasureName=MeasurePeak$i
 }
 
 function Update {
+    New-Visualizer
     $bands = $RmApi.Variable("Bands")
     return $bands
 }
