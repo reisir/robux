@@ -7,8 +7,6 @@ H=(3 * #Scale#)
 BarColor=#FontColor2#
 SolidColor=#FontColor#,55
 DynamicVariables=1
-FontWeight=#FontWeight#
-StringCase=#StringCase#
 
 ; StringStyle
 [SS]
@@ -18,6 +16,8 @@ FontColor=#FontColor#
 AntiAlias=1
 Y=(15 * #Scale#)
 DynamicVariables=1
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 [MeterRam]
 Meter=String
