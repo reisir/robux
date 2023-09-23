@@ -131,3 +131,7 @@ WeatherLanguageCode=en-US
 
 ; Acceptable values: https://en.wikipedia.org/wiki/Real_number
 ScrollMouseIncrement=0.1
+
+; Background Bar
+BackgroundBarHeight=1080
+BackgroundBarWidth=600
