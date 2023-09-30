@@ -27,6 +27,9 @@ FontSize=(13 * #Scale#)
 FontFace=#Font1#
 FontColor=#FontColor#
 AntiAlias=1
+DynamicVariables=1
+FontWeight=#FontWeight#
+StringCase=#StringCase#
 
 [MeterAverageCPU]
 Meter=String
