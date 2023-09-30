@@ -135,3 +135,5 @@ ScrollMouseIncrement=0.1
 ; Background Bar
 BackgroundBarHeight=1080
 BackgroundBarWidth=600
+; The radius of the rounded corners
+BackgroundCornerRadius=0
