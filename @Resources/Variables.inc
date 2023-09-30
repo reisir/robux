@@ -22,6 +22,13 @@ Font3=Moving Skate
 StringCase=Upper
 FontWeight=700
 
+; How many processes to list in Top Process skins
+; Refresh twice after changing
+TopProcesses=5
+; How many decimals the RAM processes should show
+RamDecimals=1
+; What to display when the process name isn't found
+TopProcessSubstitute="---"
 
 ;  ██████ ██       ██████   ██████ ██   ██ 
 ; ██      ██      ██    ██ ██      ██  ██  

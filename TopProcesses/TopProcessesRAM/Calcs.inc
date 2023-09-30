@@ -1,0 +1,15 @@
+[MeasureTop0RAMCalc]
+Measure=Calc
+Formula=MeasureTop0RAM
+[MeasureTop1RAMCalc]
+Measure=Calc
+Formula=MeasureTop1RAM
+[MeasureTop2RAMCalc]
+Measure=Calc
+Formula=MeasureTop2RAM
+[MeasureTop3RAMCalc]
+Measure=Calc
+Formula=MeasureTop3RAM
+[MeasureTop4RAMCalc]
+Measure=Calc
+Formula=MeasureTop4RAM
