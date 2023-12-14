@@ -15,7 +15,7 @@ You might also want to check out [Mondtholomew](https://github.com/reisir/mondth
 
 # Usage
 
-Download and install the newest .rmskin package from [releases](https://github.com/reisir/robux/robux/releases)
+Download and install the newest .rmskin package from [releases](https://github.com/reisir/robux/releases)
 
 Can also be installed using [Meters on Demand](https://github.com/meters-on-demand/cli)
 
